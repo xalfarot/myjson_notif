@@ -1,0 +1,15 @@
+{
+  "notifications":[
+  	{
+	   	"id": 1,
+		"Notifctn": "1",
+		"Line_item": "1",
+		"Assembly": "1",
+		"KGB_serial": "1",
+		"Distributor_Ship_Date": "1",
+		"Distributor_Ship_Time": "1",
+		"Tracking": "1",
+		"Ship_document": "1"
+  	}
+  ]
+}
